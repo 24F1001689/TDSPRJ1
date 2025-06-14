@@ -8,5 +8,11 @@ venv/
 # Ignore files
 .env
 preprocess.py
+downloader.py
+scrape_website.py
+webembedder.py
+embedder.py
+generate_embeddings_markdown.py
+test.py
 *.pyc
 .DS_Store
